@@ -1,6 +1,6 @@
 # Chart Stack
-A simple repo to demo use of data from postgresql to plot
-bar charts using D3.js with a rest api using express.js
+A simple repo to demo use of data from dynamoDB to plot
+charts using D3.js with a rest api with express.js
 
 ## Dependencies
 NodeJS runs the server-side of the app. dynamoDB is used for storing population data to be displayed on graphs.
