@@ -1,0 +1,22 @@
+{
+  "name": "d3nodeexpressdynamoDB",
+  "version": "1.0.0",
+  "description": "visualization using d3 and dynamoDB data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Josiah Solomon",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.3.11",
+    "cors": "^2.7.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yosiasz/d3-node-express-dynamoDB"
+  }
+}

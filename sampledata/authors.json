@@ -1,0 +1,27 @@
+[{
+        "author": 1000,
+        "authorname": "Théo Chapuis",
+        "date": "2016-05-09T05:00:00.000Z",
+        "langue": "fr",
+        "type": "local",
+        "linkclicks": 163,
+        "country": "fr"
+    },
+    {
+        "author": 1001,
+        "authorname": "Théo Chapuis",
+        "date": "2016-05-09T05:00:00.000Z",
+        "langue": "en",
+        "type": "trad",
+        "linkclicks": 10759,
+        "country": "fr"
+    },
+    {
+        "author": 1002,
+        "authorname": "Olivia Cassano",
+        "date": "2016-05-09T05:00:00.000Z",
+        "langue": "en",
+        "type": "trad",
+        "linkclicks": 982,
+        "country": "fr"
+    }]

@@ -1,0 +1,951 @@
+[{
+	"year": 1850,
+	"age": 0,
+	"sex": 1,
+	"people": 1483789
+}, {
+	"year": 1850,
+	"age": 0,
+	"sex": 2,
+	"people": 1450376
+}, {
+	"year": 1850,
+	"age": 5,
+	"sex": 1,
+	"people": 1411067
+}, {
+	"year": 1850,
+	"age": 5,
+	"sex": 2,
+	"people": 1359668
+}, {
+	"year": 1850,
+	"age": 10,
+	"sex": 1,
+	"people": 1260099
+}, {
+	"year": 1850,
+	"age": 10,
+	"sex": 2,
+	"people": 1216114
+}, {
+	"year": 1850,
+	"age": 15,
+	"sex": 1,
+	"people": 1077133
+}, {
+	"year": 1850,
+	"age": 15,
+	"sex": 2,
+	"people": 1110619
+}, {
+	"year": 1850,
+	"age": 20,
+	"sex": 1,
+	"people": 1017281
+}, {
+	"year": 1850,
+	"age": 20,
+	"sex": 2,
+	"people": 1003841
+}, {
+	"year": 1850,
+	"age": 25,
+	"sex": 1,
+	"people": 862547
+}, {
+	"year": 1850,
+	"age": 25,
+	"sex": 2,
+	"people": 799482
+}, {
+	"year": 1850,
+	"age": 30,
+	"sex": 1,
+	"people": 730638
+}, {
+	"year": 1850,
+	"age": 30,
+	"sex": 2,
+	"people": 639636
+}, {
+	"year": 1850,
+	"age": 35,
+	"sex": 1,
+	"people": 588487
+}, {
+	"year": 1850,
+	"age": 35,
+	"sex": 2,
+	"people": 505012
+}, {
+	"year": 1850,
+	"age": 40,
+	"sex": 1,
+	"people": 475911
+}, {
+	"year": 1850,
+	"age": 40,
+	"sex": 2,
+	"people": 428185
+}, {
+	"year": 1850,
+	"age": 45,
+	"sex": 1,
+	"people": 384211
+}, {
+	"year": 1850,
+	"age": 45,
+	"sex": 2,
+	"people": 341254
+}, {
+	"year": 1850,
+	"age": 50,
+	"sex": 1,
+	"people": 321343
+}, {
+	"year": 1850,
+	"age": 50,
+	"sex": 2,
+	"people": 286580
+}, {
+	"year": 1850,
+	"age": 55,
+	"sex": 1,
+	"people": 194080
+}, {
+	"year": 1850,
+	"age": 55,
+	"sex": 2,
+	"people": 187208
+}, {
+	"year": 1850,
+	"age": 60,
+	"sex": 1,
+	"people": 174976
+}, {
+	"year": 1850,
+	"age": 60,
+	"sex": 2,
+	"people": 162236
+}, {
+	"year": 1850,
+	"age": 65,
+	"sex": 1,
+	"people": 106827
+}, {
+	"year": 1850,
+	"age": 65,
+	"sex": 2,
+	"people": 105534
+}, {
+	"year": 1850,
+	"age": 70,
+	"sex": 1,
+	"people": 73677
+}, {
+	"year": 1850,
+	"age": 70,
+	"sex": 2,
+	"people": 71762
+}, {
+	"year": 1850,
+	"age": 75,
+	"sex": 1,
+	"people": 40834
+}, {
+	"year": 1850,
+	"age": 75,
+	"sex": 2,
+	"people": 40229
+}, {
+	"year": 1850,
+	"age": 80,
+	"sex": 1,
+	"people": 23449
+}, {
+	"year": 1850,
+	"age": 80,
+	"sex": 2,
+	"people": 22949
+}, {
+	"year": 1850,
+	"age": 85,
+	"sex": 1,
+	"people": 8186
+}, {
+	"year": 1850,
+	"age": 85,
+	"sex": 2,
+	"people": 10511
+}, {
+	"year": 1850,
+	"age": 90,
+	"sex": 1,
+	"people": 5259
+}, {
+	"year": 1850,
+	"age": 90,
+	"sex": 2,
+	"people": 6569
+}, {
+	"year": 1850,
+	"age": 0,
+	"sex": 1,
+	"people": 2120846
+}, {
+	"year": 1850,
+	"age": 0,
+	"sex": 2,
+	"people": 2092162
+}, {
+	"year": 1850,
+	"age": 5,
+	"sex": 1,
+	"people": 1804467
+}, {
+	"year": 1850,
+	"age": 5,
+	"sex": 2,
+	"people": 1778772
+}, {
+	"year": 1850,
+	"age": 10,
+	"sex": 1,
+	"people": 1612640
+}, {
+	"year": 1850,
+	"age": 10,
+	"sex": 2,
+	"people": 1540350
+}, {
+	"year": 1850,
+	"age": 15,
+	"sex": 1,
+	"people": 1438094
+}, {
+	"year": 1850,
+	"age": 15,
+	"sex": 2,
+	"people": 1495999
+}, {
+	"year": 1850,
+	"age": 20,
+	"sex": 1,
+	"people": 1351121
+}, {
+	"year": 1850,
+	"age": 20,
+	"sex": 2,
+	"people": 1370462
+}, {
+	"year": 1850,
+	"age": 25,
+	"sex": 1,
+	"people": 1217615
+}, {
+	"year": 1850,
+	"age": 25,
+	"sex": 2,
+	"people": 1116373
+}, {
+	"year": 1850,
+	"age": 30,
+	"sex": 1,
+	"people": 1043174
+}, {
+	"year": 1850,
+	"age": 30,
+	"sex": 2,
+	"people": 936055
+}, {
+	"year": 1850,
+	"age": 35,
+	"sex": 1,
+	"people": 866910
+}, {
+	"year": 1850,
+	"age": 35,
+	"sex": 2,
+	"people": 737136
+}, {
+	"year": 1850,
+	"age": 40,
+	"sex": 1,
+	"people": 699434
+}, {
+	"year": 1850,
+	"age": 40,
+	"sex": 2,
+	"people": 616826
+}, {
+	"year": 1850,
+	"age": 45,
+	"sex": 1,
+	"people": 552404
+}, {
+	"year": 1850,
+	"age": 45,
+	"sex": 2,
+	"people": 461739
+}, {
+	"year": 1850,
+	"age": 50,
+	"sex": 1,
+	"people": 456176
+}, {
+	"year": 1850,
+	"age": 50,
+	"sex": 2,
+	"people": 407305
+}, {
+	"year": 1850,
+	"age": 55,
+	"sex": 1,
+	"people": 292417
+}, {
+	"year": 1850,
+	"age": 55,
+	"sex": 2,
+	"people": 267224
+}, {
+	"year": 1850,
+	"age": 60,
+	"sex": 1,
+	"people": 260887
+}, {
+	"year": 1850,
+	"age": 60,
+	"sex": 2,
+	"people": 249735
+}, {
+	"year": 1850,
+	"age": 65,
+	"sex": 1,
+	"people": 149331
+}, {
+	"year": 1850,
+	"age": 65,
+	"sex": 2,
+	"people": 141405
+}, {
+	"year": 1850,
+	"age": 70,
+	"sex": 1,
+	"people": 98465
+}, {
+	"year": 1850,
+	"age": 70,
+	"sex": 2,
+	"people": 101778
+}, {
+	"year": 1850,
+	"age": 75,
+	"sex": 1,
+	"people": 56699
+}, {
+	"year": 1850,
+	"age": 75,
+	"sex": 2,
+	"people": 57597
+}, {
+	"year": 1850,
+	"age": 80,
+	"sex": 1,
+	"people": 29007
+}, {
+	"year": 1850,
+	"age": 80,
+	"sex": 2,
+	"people": 29506
+}, {
+	"year": 1850,
+	"age": 85,
+	"sex": 1,
+	"people": 10434
+}, {
+	"year": 1850,
+	"age": 85,
+	"sex": 2,
+	"people": 14053
+}, {
+	"year": 1850,
+	"age": 90,
+	"sex": 1,
+	"people": 7232
+}, {
+	"year": 1850,
+	"age": 90,
+	"sex": 2,
+	"people": 6622
+}, {
+	"year": 1870,
+	"age": 0,
+	"sex": 1,
+	"people": 2800083
+}, {
+	"year": 1870,
+	"age": 0,
+	"sex": 2,
+	"people": 2717102
+}, {
+	"year": 1870,
+	"age": 5,
+	"sex": 1,
+	"people": 2428469
+}, {
+	"year": 1870,
+	"age": 5,
+	"sex": 2,
+	"people": 2393680
+}, {
+	"year": 1870,
+	"age": 10,
+	"sex": 1,
+	"people": 2427341
+}, {
+	"year": 1870,
+	"age": 10,
+	"sex": 2,
+	"people": 2342670
+}, {
+	"year": 1870,
+	"age": 15,
+	"sex": 1,
+	"people": 1958390
+}, {
+	"year": 1870,
+	"age": 15,
+	"sex": 2,
+	"people": 2077248
+}, {
+	"year": 1870,
+	"age": 20,
+	"sex": 1,
+	"people": 1805303
+}, {
+	"year": 1870,
+	"age": 20,
+	"sex": 2,
+	"people": 1909382
+}, {
+	"year": 1870,
+	"age": 25,
+	"sex": 1,
+	"people": 1509059
+}, {
+	"year": 1870,
+	"age": 25,
+	"sex": 2,
+	"people": 1574285
+}, {
+	"year": 1870,
+	"age": 30,
+	"sex": 1,
+	"people": 1251534
+}, {
+	"year": 1870,
+	"age": 30,
+	"sex": 2,
+	"people": 1275629
+}, {
+	"year": 1870,
+	"age": 35,
+	"sex": 1,
+	"people": 1185336
+}, {
+	"year": 1870,
+	"age": 35,
+	"sex": 2,
+	"people": 1137490
+}, {
+	"year": 1870,
+	"age": 40,
+	"sex": 1,
+	"people": 968861
+}, {
+	"year": 1870,
+	"age": 40,
+	"sex": 2,
+	"people": 944401
+}, {
+	"year": 1870,
+	"age": 45,
+	"sex": 1,
+	"people": 852672
+}, {
+	"year": 1870,
+	"age": 45,
+	"sex": 2,
+	"people": 747916
+}, {
+	"year": 1870,
+	"age": 50,
+	"sex": 1,
+	"people": 736387
+}, {
+	"year": 1870,
+	"age": 50,
+	"sex": 2,
+	"people": 637801
+}, {
+	"year": 1870,
+	"age": 55,
+	"sex": 1,
+	"people": 486036
+}, {
+	"year": 1870,
+	"age": 55,
+	"sex": 2,
+	"people": 407819
+}, {
+	"year": 1870,
+	"age": 60,
+	"sex": 1,
+	"people": 399264
+}, {
+	"year": 1870,
+	"age": 60,
+	"sex": 2,
+	"people": 374801
+}, {
+	"year": 1870,
+	"age": 65,
+	"sex": 1,
+	"people": 260829
+}, {
+	"year": 1870,
+	"age": 65,
+	"sex": 2,
+	"people": 239080
+}, {
+	"year": 1870,
+	"age": 70,
+	"sex": 1,
+	"people": 173364
+}, {
+	"year": 1870,
+	"age": 70,
+	"sex": 2,
+	"people": 165501
+}, {
+	"year": 1870,
+	"age": 75,
+	"sex": 1,
+	"people": 86929
+}, {
+	"year": 1870,
+	"age": 75,
+	"sex": 2,
+	"people": 89540
+}, {
+	"year": 1870,
+	"age": 80,
+	"sex": 1,
+	"people": 47427
+}, {
+	"year": 1870,
+	"age": 80,
+	"sex": 2,
+	"people": 54190
+}, {
+	"year": 1870,
+	"age": 85,
+	"sex": 1,
+	"people": 15891
+}, {
+	"year": 1870,
+	"age": 85,
+	"sex": 2,
+	"people": 19302
+}, {
+	"year": 1870,
+	"age": 90,
+	"sex": 1,
+	"people": 8649
+}, {
+	"year": 1870,
+	"age": 90,
+	"sex": 2,
+	"people": 13068
+}, {
+	"year": 1880,
+	"age": 0,
+	"sex": 1,
+	"people": 3533662
+}, {
+	"year": 1880,
+	"age": 0,
+	"sex": 2,
+	"people": 3421597
+}, {
+	"year": 1880,
+	"age": 5,
+	"sex": 1,
+	"people": 3297503
+}, {
+	"year": 1880,
+	"age": 5,
+	"sex": 2,
+	"people": 3179142
+}, {
+	"year": 1880,
+	"age": 10,
+	"sex": 1,
+	"people": 2911924
+}, {
+	"year": 1880,
+	"age": 10,
+	"sex": 2,
+	"people": 2813550
+}, {
+	"year": 1880,
+	"age": 15,
+	"sex": 1,
+	"people": 2457734
+}, {
+	"year": 1880,
+	"age": 15,
+	"sex": 2,
+	"people": 2527818
+}, {
+	"year": 1880,
+	"age": 20,
+	"sex": 1,
+	"people": 2547780
+}, {
+	"year": 1880,
+	"age": 20,
+	"sex": 2,
+	"people": 2512803
+}, {
+	"year": 1880,
+	"age": 25,
+	"sex": 1,
+	"people": 2119393
+}, {
+	"year": 1880,
+	"age": 25,
+	"sex": 2,
+	"people": 1974241
+}, {
+	"year": 1880,
+	"age": 30,
+	"sex": 1,
+	"people": 1749107
+}, {
+	"year": 1880,
+	"age": 30,
+	"sex": 2,
+	"people": 1596772
+}, {
+	"year": 1880,
+	"age": 35,
+	"sex": 1,
+	"people": 1540772
+}, {
+	"year": 1880,
+	"age": 35,
+	"sex": 2,
+	"people": 1483717
+}, {
+	"year": 1880,
+	"age": 40,
+	"sex": 1,
+	"people": 1237347
+}, {
+	"year": 1880,
+	"age": 40,
+	"sex": 2,
+	"people": 1239435
+}, {
+	"year": 1880,
+	"age": 45,
+	"sex": 1,
+	"people": 1065973
+}, {
+	"year": 1880,
+	"age": 45,
+	"sex": 2,
+	"people": 1003711
+}, {
+	"year": 1880,
+	"age": 50,
+	"sex": 1,
+	"people": 964484
+}, {
+	"year": 1880,
+	"age": 50,
+	"sex": 2,
+	"people": 863012
+}, {
+	"year": 1880,
+	"age": 55,
+	"sex": 1,
+	"people": 679147
+}, {
+	"year": 1880,
+	"age": 55,
+	"sex": 2,
+	"people": 594843
+}, {
+	"year": 1880,
+	"age": 60,
+	"sex": 1,
+	"people": 580298
+}, {
+	"year": 1880,
+	"age": 60,
+	"sex": 2,
+	"people": 526956
+}, {
+	"year": 1880,
+	"age": 65,
+	"sex": 1,
+	"people": 369398
+}, {
+	"year": 1880,
+	"age": 65,
+	"sex": 2,
+	"people": 346303
+}, {
+	"year": 1880,
+	"age": 70,
+	"sex": 1,
+	"people": 255422
+}, {
+	"year": 1880,
+	"age": 70,
+	"sex": 2,
+	"people": 251850
+}, {
+	"year": 1880,
+	"age": 75,
+	"sex": 1,
+	"people": 141628
+}, {
+	"year": 1880,
+	"age": 75,
+	"sex": 2,
+	"people": 143513
+}, {
+	"year": 1880,
+	"age": 80,
+	"sex": 1,
+	"people": 67526
+}, {
+	"year": 1880,
+	"age": 80,
+	"sex": 2,
+	"people": 77290
+}, {
+	"year": 1880,
+	"age": 85,
+	"sex": 1,
+	"people": 22437
+}, {
+	"year": 1880,
+	"age": 85,
+	"sex": 2,
+	"people": 31227
+}, {
+	"year": 1880,
+	"age": 90,
+	"sex": 1,
+	"people": 10272
+}, {
+	"year": 1880,
+	"age": 90,
+	"sex": 2,
+	"people": 15451
+}, {
+	"year": 1900,
+	"age": 0,
+	"sex": 1,
+	"people": 4619544
+}, {
+	"year": 1900,
+	"age": 0,
+	"sex": 2,
+	"people": 4589196
+}, {
+	"year": 1900,
+	"age": 5,
+	"sex": 1,
+	"people": 4465783
+}, {
+	"year": 1900,
+	"age": 5,
+	"sex": 2,
+	"people": 4390483
+}, {
+	"year": 1900,
+	"age": 10,
+	"sex": 1,
+	"people": 4057669
+}, {
+	"year": 1900,
+	"age": 10,
+	"sex": 2,
+	"people": 4001749
+}, {
+	"year": 1900,
+	"age": 15,
+	"sex": 1,
+	"people": 3774846
+}, {
+	"year": 1900,
+	"age": 15,
+	"sex": 2,
+	"people": 3801743
+}, {
+	"year": 1900,
+	"age": 20,
+	"sex": 1,
+	"people": 3694038
+}, {
+	"year": 1900,
+	"age": 20,
+	"sex": 2,
+	"people": 3751061
+}, {
+	"year": 1900,
+	"age": 25,
+	"sex": 1,
+	"people": 3389280
+}, {
+	"year": 1900,
+	"age": 25,
+	"sex": 2,
+	"people": 3236056
+}, {
+	"year": 1900,
+	"age": 30,
+	"sex": 1,
+	"people": 2918964
+}, {
+	"year": 1900,
+	"age": 30,
+	"sex": 2,
+	"people": 2665174
+}, {
+	"year": 1900,
+	"age": 35,
+	"sex": 1,
+	"people": 2633883
+}, {
+	"year": 1900,
+	"age": 35,
+	"sex": 2,
+	"people": 2347737
+}, {
+	"year": 1900,
+	"age": 40,
+	"sex": 1,
+	"people": 2261070
+}, {
+	"year": 1900,
+	"age": 40,
+	"sex": 2,
+	"people": 2004987
+}, {
+	"year": 1900,
+	"age": 45,
+	"sex": 1,
+	"people": 1868413
+}, {
+	"year": 1900,
+	"age": 45,
+	"sex": 2,
+	"people": 1648025
+}, {
+	"year": 1900,
+	"age": 50,
+	"sex": 1,
+	"people": 1571038
+}, {
+	"year": 1900,
+	"age": 50,
+	"sex": 2,
+	"people": 1411981
+}, {
+	"year": 1900,
+	"age": 55,
+	"sex": 1,
+	"people": 1161908
+}, {
+	"year": 1900,
+	"age": 55,
+	"sex": 2,
+	"people": 1064632
+}, {
+	"year": 1900,
+	"age": 60,
+	"sex": 1,
+	"people": 916571
+}, {
+	"year": 1900,
+	"age": 60,
+	"sex": 2,
+	"people": 887508
+}, {
+	"year": 1900,
+	"age": 65,
+	"sex": 1,
+	"people": 672663
+}, {
+	"year": 1900,
+	"age": 65,
+	"sex": 2,
+	"people": 640212
+}, {
+	"year": 1900,
+	"age": 70,
+	"sex": 1,
+	"people": 454747
+}, {
+	"year": 1900,
+	"age": 70,
+	"sex": 2,
+	"people": 440007
+}, {
+	"year": 1900,
+	"age": 75,
+	"sex": 1,
+	"people": 268211
+}, {
+	"year": 1900,
+	"age": 75,
+	"sex": 2,
+	"people": 265879
+}, {
+	"year": 1900,
+	"age": 80,
+	"sex": 1,
+	"people": 127435
+}, {
+	"year": 1900,
+	"age": 80,
+	"sex": 2,
+	"people": 132449
+}, {
+	"year": 1900,
+	"age": 85,
+	"sex": 1,
+	"people": 44008
+}, {
+	"year": 1900,
+	"age": 85,
+	"sex": 2,
+	"people": 48614
+}, {
+	"year": 1900,
+	"age": 90,
+	"sex": 1,
+	"people": 15164
+}, {
+	"year": 1900,
+	"age": 90,
+	"sex": 2,
+	"people": 20093
+}]
