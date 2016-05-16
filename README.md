@@ -39,4 +39,4 @@ To seed your DynamoDBLocal with sample population data. Watch console and fix an
 ```bash
 http://localhost:5000/seed
 ```
-Leave the server running, and now you can access [http://localhost:5000/](http://localhost:5000/)."# d3-node-express-dynamoDB" 
+Leave the server running, and now you can access [http://localhost:5000/](http://localhost:5000/).
