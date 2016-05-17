@@ -4,7 +4,7 @@
         "date": "2016-05-09",
         "langue": "fr",
         "type": "local",
-        "linkclicks": 163,
+        "linkclicks": "163",
         "country": "fr"
     },
     {
@@ -13,7 +13,7 @@
         "date": "2016-05-09",
         "langue": "en",
         "type": "trad",
-        "linkclicks": 10759,
+        "linkclicks": "10759",
         "country": "fr"
     },
     {
@@ -22,7 +22,7 @@
         "date": "2016-05-09",
         "langue": "en",
         "type": "trad",
-        "linkclicks": 982,
+        "linkclicks": "982",
         "country": "fr"
     },
     {
@@ -31,7 +31,7 @@
         "date": "2016-05-10",
         "langue": "en",
         "type": "trad",
-        "linkclicks": 343,
+        "linkclicks": "343",
         "country": "fr"
     },
     {
@@ -49,7 +49,7 @@
         "date": "2016-05-10",
         "langue": "en",
         "type": "trad",
-        "linkclicks": 982,
+        "linkclicks": "982",
         "country": "fr"
     }
 ]

@@ -20,6 +20,10 @@ http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-configuring.html
 
 2. This sample uses DynamoDBLocal NOT TO BE USED FOR PROD!!!
 
+3. Firing up dynamodb
+    java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
+
+
 ## Project Setup and Running Server
 #### 1. Initial Setup
 ```bash

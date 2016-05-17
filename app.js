@@ -5,9 +5,6 @@ var app = express();
 
 var populationRouter = require('./src/routes/populationRoutes');
 var authorRouter = require('./src/routes/authorRoutes');
-var seedPopulationsRouter = require('./src/routes/populationSeedRoutes');
-var seedAuthorsRouter = require('./src/routes/authorsSeedRoutes');
-
 
 var port = process.env.PORT || 5000;
 
@@ -27,9 +24,6 @@ app.set('view engine', 'ejs');
 app.use('/population', populationRouter.getPopulations());
 app.use('/booksdata', authorRouter.getAuthors());
 app.use('/authors', authorRouter.getAuthors());
-
-app.use('/seedpopulation', seedPopulationsRouter.seedPopulations());
-app.use('/seedauthors', seedAuthorsRouter.seedAuthors());
 
 app.get('/', function (req, res) {
     res.render('index', {

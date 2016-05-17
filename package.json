@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node seedAuthors.js && nodemon app.js"
+    "start": "node ./sampledata/seedAuthors.js && node ./sampledata/seedPopulations.js && node app.js"
   },
   "author": "Josiah Solomon",
   "license": "ISC",

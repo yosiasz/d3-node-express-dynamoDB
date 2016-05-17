@@ -58,7 +58,7 @@ function getChartData() {
         Limit : 50
     }, function(err, data) {
         if (err) { console.log(err); return; }
-        console.log(data.year);
+        //console.log(data.year);
 
         for (var ii in data.Items) {
             ii = data.Items[ii];

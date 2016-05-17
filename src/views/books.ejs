@@ -83,6 +83,8 @@ d3.json(url, function(error, data) {
     };
   });
 
+  console.log(authors);
+    
   x.domain(d3.extent(data, function(d) { return d.date; }));
 
   y.domain([
@@ -109,8 +111,8 @@ d3.json(url, function(error, data) {
       .data(authors)
     .enter().append("g")
       .attr("class", "author");
-    console.log(authors);
-  author.append("path")
+
+    author.append("path")
       .attr("class", "line")
       .attr("d", function(d) { 
                                 console.log(d.values);
