@@ -1,7 +1,7 @@
 [{
         "author": 1000,
         "authorname": "Théo Chapuis",
-        "date": "2016-05-09T05:00:00.000Z",
+        "date": "2016-05-09",
         "langue": "fr",
         "type": "local",
         "linkclicks": 163,
@@ -9,8 +9,8 @@
     },
     {
         "author": 1001,
-        "authorname": "Théo Chapuis",
-        "date": "2016-05-09T05:00:00.000Z",
+        "authorname": "Jules Verne",
+        "date": "2016-05-09",
         "langue": "en",
         "type": "trad",
         "linkclicks": 10759,
@@ -19,9 +19,38 @@
     {
         "author": 1002,
         "authorname": "Olivia Cassano",
-        "date": "2016-05-09T05:00:00.000Z",
+        "date": "2016-05-09",
         "langue": "en",
         "type": "trad",
         "linkclicks": 982,
         "country": "fr"
-    }]
+    },
+    {
+        "author": 1003,
+        "authorname": "Théo Chapuis",
+        "date": "2016-05-10",
+        "langue": "en",
+        "type": "trad",
+        "linkclicks": 343,
+        "country": "fr"
+    },
+    {
+        "author": 1004,
+        "authorname": "Jules Verne",
+        "date": "2016-05-10",
+        "langue": "en",
+        "type": "trad",
+        "linkclicks": 45,
+        "country": "fr"
+    },
+     {
+        "author": 1005,
+        "authorname": "Olivia Cassano",
+        "date": "2016-05-10",
+        "langue": "en",
+        "type": "trad",
+        "linkclicks": 982,
+        "country": "fr"
+    }
+]
+

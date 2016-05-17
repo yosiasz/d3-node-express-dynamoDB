@@ -16,11 +16,11 @@ var TableName = 'authors';
 var p_CreateTable = {
     TableName : "authors",
     KeySchema: [
-        { AttributeName: "author", KeyType: "HASH"},  //Partition key
+        { AttributeName: "id", KeyType: "HASH"},  //Partition key
         { AttributeName: "authorname", KeyType: "RANGE" }  //Sort key
     ],
     AttributeDefinitions: [
-        { AttributeName: "author", AttributeType: "N" },
+        { AttributeName: "id", AttributeType: "N" },
         { AttributeName: "authorname", AttributeType: "S" }
     ],
 
@@ -52,6 +52,7 @@ var seedAuthors = function () {
                             } else {
                                  var allData = JSON.parse(fs.readFileSync('./sampledata/authors.json', 'utf8'));
                                     allData.forEach(function(author) {
+                                        console.log(author);
                                         var p_SeedTable = {
                                             TableName: TableName,
                                             Item: {
@@ -88,5 +89,3 @@ var seedAuthors = function () {
 module.exports = {
   seedAuthors: seedAuthors
 };
-                         
-                         
